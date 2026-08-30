@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="fediverse:creator" content="@hyblon@vivaldi.net">
+  <link rel="me" href="https://github.com/hyblon">
+  <link rel="me" href="https://hyblon.eu">
+  <link rel="me" href="https://social.vivaldi.net/@hyblon">
+
+  <link rel="alternate" type="application/rss+xml"
+        title="Feed RSS" href="/note/feed.xml">
+
+  <link rel="webmention"
+        href="https://webmention.io/hyblon.eu/webmention">
+
+  <link rel="stylesheet" href="../css/colors.css">
+  <link rel="stylesheet" href="../css/style-2026-00.css">
+
+  <title>Nuovo inizio con Emacs e Elisp</title>
+
+  <script src="../script.js" defer></script>
+  <script src="../theme.js" defer></script>
+</head>
+
+<body>
+
+<header>
+  <div style="text-align: right;" id="dark-toggle">
+    <button id="theme-toggle" type="button">[dark]</button>
+  </div>
+
+  <nav>
+    <a href="../index.html">Home</a>
+  </nav>
+</header>
+
+<article class="h-entry">
+
+  <header>
+    <time class="dt-published"
+          datetime="2026-08-30">2026-08-30</time>
+  </header>
+
+  <div class="e-content">
+    <h2 id="nuovo-inizio-con-emacs-e-elisp">Nuovo inizio con Emacs e
+    elisp</h2>
+    <p>Ho ripulito quello che ho pubblicato fino ad ora per
+    ricominciare.</p>
+    <p>Il vecchio generatore Python è stato sostituito da Emacs e uno
+    script Elisp, anche se non penso di abbandonarlo, anzi lo
+    modificherò per incorporare le funzionalità che sto
+    sperimentando.</p>
+    <p>Ma torniamo all’argomento principale di questa nota. L’idea di
+    base è molto semplice.</p>
+    <p>Devo solo scrivere un file di testo/Markdown nella cartella del
+    progetto. Con una semplice combinazione di tasti, Emacs carica il
+    mio script e rigenera tutto il sito, le pagine indice e i feed.</p>
+    <p>Per convertire il file da Markdown in HTML uso
+    <strong>Pandoc</strong>, come già facevo con lo script Python. La
+    differenza è che, invece di usare <strong>string.Template</strong>
+    per iniettare l’HTML nella pagina web, uso direttamente la
+    funzioanlità template di pandoc.</p>
+    <p>Ora, ad essere sinceri non conosco Elisp. Ho giusto
+    un’infarinatura generale dei dialetti Scheme, quindi mi sono fatto
+    aiutare da un <strong>LLM</strong> per verificare la fattibilità del
+    progetto.</p>
+    <p>Ma non sono soddisfatto.</p>
+    <p>Lo script funziona bene, ma voglio capire cosa fa e quindi credo
+    di riscriverlo da zero per conto mio. Anzi, ho già cominciato a
+    studiarlo e a fare qualche modifica per adattarlo meglio.
+    Sicuramente è una buona occasione per imparare a Emacs e il suo
+    Elisp.</p>
+  </div>
+
+  <a class="u-url"
+     href="https://hyblon.eu/note/nuovo-inizio-con-emacs-elisp.html"
+     style="display:none;"></a>
+
+</article>
+
+<footer>
+
+  <section id="send-webmention">
+
+    <form action="https://webmention.io/hyblon.eu/webmention"
+          method="POST"
+          target="_blank">
+
+      <h3>Invia una Webmention</h3>
+
+      <label for="source">Il tuo URL di risposta:</label>
+
+      <input id="source"
+             type="url"
+             name="source"
+             placeholder="https://..."
+             required>
+
+      <input id="target"
+             type="hidden"
+             name="target"
+             value="https://hyblon.eu/note/nuovo-inizio-con-emacs-elisp.html">
+
+      <button type="submit">Invia</button>
+
+    </form>
+
+  </section>
+
+  <section id="webmentions">
+
+    <h3>Webmentions</h3>
+
+    <div id="webmention-container">
+      Caricamento menzioni...
+    </div>
+
+  </section>
+
+</footer>
+
+</body>
+</html>
