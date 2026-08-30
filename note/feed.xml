@@ -24,7 +24,7 @@ script e rigenera tutto il sito, le pagine indice e i feed.</p>
 <p>Per convertire il file da Markdown in HTML uso
 <strong>Pandoc</strong>, come già facevo con lo script Python. La
 differenza è che, invece di usare <strong>string.Template</strong> per
-iniettare l’HTML nella pagina web, uso direttamente la funzioanlità
+iniettare l’HTML nella pagina web, uso direttamente la funzionalità
 template di pandoc.</p>
 <p>Ora, ad essere sinceri non conosco Elisp. Ho giusto un’infarinatura
 generale dei dialetti Scheme, quindi mi sono fatto aiutare da un
