@@ -81,5 +81,51 @@ a fare qualche modifica per adattarlo meglio. Sicuramente è una buona
 occasione per imparare a Emacs e il suo Elisp.</p>
 ]]></description>
     </item>
+    <item>
+      <title>Elogio dello slow computing</title>
+      <link>https://hyblon.eu/note/elogio-dello-slow-computing.html</link>
+      <guid>https://hyblon.eu/note/elogio-dello-slow-computing.html</guid>
+      <pubDate>2026-07-12</pubDate>
+      <description><![CDATA[<h2 id="elogio-dello-slow-computing.">Elogio dello Slow Computing.</h2>
+<p><strong>Ultima modifica:</strong> 14 Luglio 2026</p>
+<p>Questo post è un elogio dello slow computing. Cosa vuol dire? Vuol
+dire che cerco di fare le cose con computer non troppo potenti per gli
+standard attuali.</p>
+<p>Da circa due mesi sto utilizzando, come postazione principale, un
+netbook 2 in 1, con processore intel atom x5-Z8350 e 4 giga di memoria
+ram. Lo schermo del mio portatile (una macchina comprata nel 2016) mi ha
+lasciato e non ho i soldi e le capacità di sistemarlo, dato che mi
+interesso soprattutto della parte software. Comunque avevo da parte
+questo acquisto “errato”. Ci ho installato sopra Fedora KDE. Il vecchio
+laptop l’ho collegato a un monitor esterno e lo uso come postazione
+fissa.</p>
+<p>Sono arrivato al giusto compromesso tra prestazioni e piacere di
+utilizzo. All’inizio è stato fastidioso, tutto sembrava troppo lento, ma
+ora riesco a fare tutto quello che mi serve senza grossi fastidi.</p>
+<p>Sinceramente non ho bisogno di un’altra macchina più performante,
+riesco a fare tutto quello che ho sempre fatto con gli strumenti che ho
+a disposizione. Questo secondo me dovrebbe essere il personal computing,
+sfruttare al massimo la propria macchina senza inseguire costantemente
+l’upgrade o la novità. Finchè si può eseguire un browser recente, se il
+web è la propria attività principale, non c’è bisogno di comprare un
+computer nuovo.</p>
+<p>Le risorse limitate costringono a un uso deliberato e intenzionale
+del computer, togliendo i presupposti a tutti gli effetti collaterali
+che piagano ormai il consumatore del web.</p>
+<p>Non sono di certo l’unico a fare una cosa del genere, ma la
+differenza è che io lo faccio per necessità e non per “snobbismo”
+hipster o per seguire qualche tendenza. Questo è il modo in cui ho
+sempre usato il computer, saltando completamente interi cicli di
+tendenze perchè non potevo economicamente prendervi parte.</p>
+<p>Il titolo dell’articolo è “Elogio dello slow computing”, ma avrei
+dovuto intitolarlo “Elogio del limite”. Il limite è quello che costringe
+ad entrare in sintonia con la macchina, a trovare modi originali per
+portare a termine un compito, oppure a rinunciarvi completamente capendo
+che forse non ne vale la pena, e che lo si voleva fare solo per il
+valore estetico, per posing, come si direbbe oggi.</p>
+<p>È lo spirito del personal computing, dove la creatività nasceva dal
+dover strizzare il massimo da pochi kb di memoria a disposizione.</p>
+]]></description>
+    </item>
   </channel>
 </rss>
