@@ -5,6 +5,19 @@
     <link>https://hyblon.eu/</link>
     <description>Hyblon</description>
     <item>
+      <title>Nuovo inizio con Emacs e Elisp</title>
+      <link>https://hyblon.eu/note/nano-il-miglior-editor.html</link>
+      <guid>https://hyblon.eu/note/nano-il-miglior-editor.html</guid>
+      <pubDate>2026-11-17</pubDate>
+      <description><![CDATA[<p>#Nano è il miglior editor</p>
+<p>Ci ho provato a usare altri editor di testo, ma per me GNU nano
+rimane il migliore.</p>
+<p>Mi piace la sua semplicità, che mi permette di fare le cose che devo
+fare senza troppe complicazioni inutili. Mi piace usare la tastiera, ma
+al tempo stesso odio perdermi in infinite combinazioni di tasti.</p>
+]]></description>
+    </item>
+    <item>
       <title>Programmare con carta e penna</title>
       <link>https://hyblon.eu/note/programmare-con-carta-e-penna.html</link>
       <guid>https://hyblon.eu/note/programmare-con-carta-e-penna.html</guid>
