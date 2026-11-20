@@ -5,6 +5,36 @@
     <link>https://hyblon.eu/</link>
     <description>Hyblon - Note</description>
     <item>
+      <title>Programmare con carta e penna</title>
+      <link>https://hyblon.eu/note/programmare-con-carta-e-penna.html</link>
+      <guid>https://hyblon.eu/note/programmare-con-carta-e-penna.html</guid>
+      <pubDate>2026-09-07</pubDate>
+      <description><![CDATA[<p>Una mia caratteristica (non voglio dire difetto, anche se per molti
+lo è), è che prima comincio a scrivere il codice e poi mi metto a
+pensare cosa voglio fare. A questo aggiungiamo che non riesco a fare la
+stessa cosa per due giorni di seguito. Mi è quasi impossibile dedicarmi
+a un progetto con continuità. Ogni giorno mi sveglio resettato e devo
+dedicarmi a qualcosa di nuovo. L’unico modo in cui sono consistente è
+nel distrarmi. Il risultato è che spesso mi limito a realizzare piccoli
+script o programmini che posso concludere in giornata, perché il giorno
+dopo il mio cervello è già operativo su altre idee.</p>
+<p>Quando ho cominciato a imparare a programmare l’ho fatto un po’ per
+conto mio seguendo a caso i vari tutorial su internet, un po’ in maniera
+più metodica e scolastica, a scuola appunto. A scuola ho cominciato con
+il Turbo Pascal. Ricordo che ci facevano fare i grafici di flusso
+(flowcharts) e lo pseudocodice. Ogni tanto riprendo quel libro e lo
+guardo con un misto tra nostalgia e interesse. All’epoca non prestavo
+particolare attenzione a queste cose, mi annoiavano a morte. Io volevo
+solo fare cose che funzionavano. Comunque, mio malgrado, la cosa si è
+piantata nel cervello e ha fermentato per tutti questi anni.</p>
+<p>Ho sempre quest’attrazione segreta verso i flowcharts e lo
+pseudocodice, e forse complice l’invecchiamento e il rincoglionimento
+precoce, ultimamente sto cominciando a sentire sempre più forte e
+irresistibile l’impulso di prendere carta e penna e cominciare a
+progettare dei programmini semplici prima ancora di scrivere codice.</p>
+]]></description>
+    </item>
+    <item>
       <title>Nuovo inizio con Emacs e Elisp</title>
       <link>https://hyblon.eu/note/nuovo-inizio-con-emacs-elisp.html</link>
       <guid>https://hyblon.eu/note/nuovo-inizio-con-emacs-elisp.html</guid>
